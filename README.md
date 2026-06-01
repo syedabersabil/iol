@@ -1,6 +1,6 @@
-# IOL | Creative Development Lab
+# IOL | Creative Development Lab (Vue 3)
 
-A premium, modern React website built with Vite featuring visual mesh animations, a customizable design playground, dynamic dark mode styling, and fully responsive layouts.
+A premium, modern Vue 3 website built with Vite featuring visual mesh animations, a customizable design playground, dynamic dark mode styling, and fully responsive layouts.
 
 ## 🚀 Live Demo
 Visit the deployed application at: **[https://syedabersabil.github.io/iol/](https://syedabersabil.github.io/iol/)**
@@ -13,8 +13,8 @@ Visit the deployed application at: **[https://syedabersabil.github.io/iol/](http
 - **Contact Inquiry System**: An interactive form showcasing real-time visual dispatching states.
 
 ## 💻 Tech Stack
-- **Framework**: React.js 19
-- **Build Tool**: Vite 8
+- **Framework**: Vue 3 (Composition API Setup)
+- **Build Tool**: Vite 6
 - **Styling**: Modern CSS variables & media queries
 - **Deployment**: Github Pages via `gh-pages`
 

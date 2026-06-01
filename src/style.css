@@ -306,7 +306,7 @@ body {
 /* Interactive Sandbox / Visualizer Container */
 .hero-visualizer {
   flex: 1;
-  display: flex;
+  display: center;
   justify-content: center;
   align-items: center;
 }
