@@ -1,16 +1,46 @@
-# React + Vite
+# IOL | Creative Development Lab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, modern React website built with Vite featuring visual mesh animations, a customizable design playground, dynamic dark mode styling, and fully responsive layouts.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Visit the deployed application at: **[https://syedabersabil.github.io/iol/](https://syedabersabil.github.io/iol/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Website Preview
+Here is a preview of the web interface design:
 
-## React Compiler
+![IOL Website Preview](./public/preview.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Features
+- **Interactive Chroma Sandbox**: Visual mesh generator where you can adjust border radius, rotation, and color gradient ranges using sliders in real-time.
+- **Glassmorphic UI Elements**: Soft shadows, blur backdrops, and subtle hover scale states for smooth responsiveness.
+- **Premium Design System**: Tailored HSL theme colors, modern typography from Google Fonts (`Outfit` and `Space Grotesk`), and light/dark theme toggles.
+- **Project Grid Filter**: Instantly search case studies and software projects.
+- **Contact Inquiry System**: An interactive form showcasing real-time visual dispatching states.
 
-## Expanding the ESLint configuration
+## 💻 Tech Stack
+- **Framework**: React.js 19
+- **Build Tool**: Vite 8
+- **Styling**: Modern CSS variables & media queries
+- **Deployment**: Github Pages via `gh-pages`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Development
+
+Install dependencies:
+```bash
+npm install
+```
+
+Start the development server:
+```bash
+npm run dev
+```
+
+Build the application for production:
+```bash
+npm run build
+```
+
+Deploy changes to Github Pages:
+```bash
+npm run deploy
+```
