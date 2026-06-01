@@ -5,11 +5,6 @@ A premium, modern React website built with Vite featuring visual mesh animations
 ## 🚀 Live Demo
 Visit the deployed application at: **[https://syedabersabil.github.io/iol/](https://syedabersabil.github.io/iol/)**
 
-## 📸 Website Preview
-Here is a preview of the web interface design:
-
-![IOL Website Preview](./public/preview.png)
-
 ## 🛠️ Features
 - **Interactive Chroma Sandbox**: Visual mesh generator where you can adjust border radius, rotation, and color gradient ranges using sliders in real-time.
 - **Glassmorphic UI Elements**: Soft shadows, blur backdrops, and subtle hover scale states for smooth responsiveness.
